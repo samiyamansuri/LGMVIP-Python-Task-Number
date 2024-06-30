@@ -1,4 +1,4 @@
-**Rock Paper Scissors Game**
+**Rock Paper Scissor Game**
 
 **Description**
 This project is a Python implementation of the Rock Paper Scissors game. Players compete against the computer, which randomly selects one of the three options (Rock, Paper, or Scissors).
