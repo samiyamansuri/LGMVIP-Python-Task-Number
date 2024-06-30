@@ -18,9 +18,11 @@ This project involves creating a Voice Assistant using Python, capable of perfor
 
 **Setup and Configuration**
 
+
 **Install Required Packages:**
 
 **pip install SpeechRecognition pyttsx3 requests**
+
 
 **API Keys and Credentials:**
 
