@@ -6,7 +6,7 @@ Welcome to my repository showcasing the projects completed during my Python Deve
 
 ### 1. GIF Creator
 
-- **Description**: Developed a Python program to create GIFs from images or video files.
+- **Description**: Developed a Python program to create GIFs from images files.
 - **LinkedIn Post**: [Link to LinkedIn Post](https://www.linkedin.com/posts/samiya-mansuri-a9b806239_during-my-internship-at-letsgrowmore-i-developed-activity-7213226393881497601-tYNF?utm_source=share&utm_medium=member_desktop)
 
 ### 2. Snake Game
