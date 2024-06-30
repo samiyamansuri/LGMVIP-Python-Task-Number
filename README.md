@@ -30,4 +30,4 @@ For any questions or further information, feel free to contact me via [LinkedIn]
 
 ## Acknowledgements
 
-Special thanks to LetsGrowMore for providing this valuable internship opportunity.
+Special thanks to **LetsGrowMore** for providing this valuable internship opportunity.
